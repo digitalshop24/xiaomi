@@ -1,0 +1,28 @@
+{
+  "name": "dinozavr",
+  "version": "1.0.0",
+  "description": "WP Template",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adFedorovich/Dinozavr.git"
+  },
+  "author": "Andrey Fedorovich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adFedorovich/Dinozavr/issues"
+  },
+  "homepage": "https://github.com/adFedorovich/Dinozavr#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-watch": "^4.3.6",
+    "jquery": "^3.0.0"
+  }
+}
